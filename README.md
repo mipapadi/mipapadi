@@ -41,15 +41,9 @@
 <img align="left" alt="Colab" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png" />
 
 <br />
-<br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.mipapadi.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
