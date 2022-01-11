@@ -14,8 +14,6 @@
 <img align="left" alt="mipapapdi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 [<img align="left" alt="mipapapdi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
 ### 🛠️ Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Python.png" />
@@ -35,17 +33,17 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/GitHub.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Linux.png" />
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png" />
-<br />
+<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png"  />
+<br>
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Jupyter.png" />
 <img align="left" alt="Colab" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png" />
 
-<br />
+<br>
 
 ---
 
-<br />
+<br>
 
 ### 📊 Profil Statistics:
 
@@ -53,11 +51,11 @@
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=synthwave" />
 
-<br />
+<br>
 
 ---
 
-<br />
+<br>
 
 ### 💜 Repos I Like:
 
