@@ -45,6 +45,6 @@
 ---
 
 <img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true&theme=radical" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=github-readme-stats&langs_count=5&layout=compact)](https://github.com/mipapadi/github-readme-stats)
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=github-readme-stats&langs_count=5&layout=compact" />
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
