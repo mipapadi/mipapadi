@@ -35,7 +35,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/GitHub.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Linux.png" />
-<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png" />  
+<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png" />
+
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png" />
 <img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Jupyter.png" />
 <img align="left" alt="Colab" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png" />
