@@ -41,21 +41,37 @@
 <img align="left" alt="Colab" width="26px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png" />
 
 <br />
+<br />
 
 ---
+
+### 📊 Profil Statistics:
 
 <img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true&theme=radical" />
 
 <br />
 
----
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=synthwave" />
 
-<img align="left" alt="Repos I Like" src="https://github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=skytrax_data_analysis&show_owner=True&show_icons=true&hide_border=true&theme=tokyonight" />
-
+<br />
 <br />
 
 ---
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=synthwave" />
+### 💜 Repos I Like:
+
+<a href="https://github.com/mipapadi/skytrax_data_analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=skytrax_data_analysis&show_owner=True&show_icons=true&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/mipapadi/mipapadi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=mipapadi&show_owner=True&show_icons=true&hide_border=true&theme=tokyonight" />
+</a>
+
+<!--
+<img align="left" alt="Repos I Like" src="https://github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=skytrax_data_analysis&show_owner=True&show_icons=true&hide_border=true&theme=tokyonight" />
+-->
+<br />
+
+---
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
