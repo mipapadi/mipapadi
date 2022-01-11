@@ -45,4 +45,11 @@
 
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.mipapadi.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true" />
+
+</details>
+
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
