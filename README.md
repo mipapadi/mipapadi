@@ -47,7 +47,9 @@
 
 <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=synthwave" />
 
-  <br />
+## <br />
+
+## <br />
 
 ### 💜 Repos I Like:
 
