@@ -45,13 +45,17 @@
 ---
 
 <img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true&theme=radical" />
+
 <br />
+
 ---
 
 <img align="left" alt="Repos I Like" src="https://github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=skytrax_data_analysis&show_owner=True&show_icons=true&hide_border=true&theme=tokyonight" />
+
 <br />
+
 ---
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=5&layout=compact&theme=synthwave" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=synthwave" />
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
