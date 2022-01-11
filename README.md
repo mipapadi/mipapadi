@@ -44,6 +44,6 @@
 
 ---
 
-<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true" />
+<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
