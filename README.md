@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on something cool 😉
 - 📖 I’m currently learning Machine Learning & Deep Learning
-- 💬 Ask me about: Excel, SQL, NoSQL, ORM, Docker and Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)
+- 💬 Ask me about: Excel, SQL, NoSQL, ORM & Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)
 - 🎯 2022 Goals: Contribute to Open Source projects
 - 🏊 Fun fact: I love swimming
 
@@ -44,6 +44,7 @@
 
 ---
 
-<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true&theme=maroongold" />
+<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true&theme=radical" />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=github-readme-stats&langs_count=5&layout=compact)](https://github.com/mipapadi/github-readme-stats)
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
