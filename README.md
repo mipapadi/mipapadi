@@ -1,7 +1,5 @@
 <h2 align="center">
-<span style="color:#2de2e6">
-Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</span>
+<p><span style="color:#2de2e6">Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></span></p>
 
 ![Expertise](https://img.shields.io/badge/Field-Exp-yellowgreen)
 ![Licenced](https://img.shields.io/badge/Licence-UTH-critical)
