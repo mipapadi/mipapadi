@@ -73,8 +73,8 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 </h3>
   
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mipapadi&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=synthwave&title_color=2de2e6" height="190px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide_border=true&theme=omni&title_color=F85D7F" height="190px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mipapadi&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=synthwave&title_color=2de2e6" height="185px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide_border=true&theme=omni&title_color=F85D7F" height="185px"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
