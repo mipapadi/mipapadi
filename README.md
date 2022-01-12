@@ -65,7 +65,6 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 ---
 
-<br>
 
 <h3 align="left">  
 <span style="color:#317bec">
