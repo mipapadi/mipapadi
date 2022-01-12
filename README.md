@@ -1,11 +1,11 @@
 ### Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] 👋
 
-## I am a passionate Data Analyst, searching for job opportunitiies and exciting projects !!
+## I am a passionate Data Analyst, searching for job opportunities and exciting projects !!
 
 - 🔭 I’m currently working on something cool 😉
 - 📖 I’m currently learning Machine Learning & Deep Learning
 - 💬 Ask me anything about: Excel, SQL, NoSQL, ORM, Docker & Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)
-- 🎯 2022 Goals: Contribute to Open Source projects
+- 🎯 2022 Goals: Upgrade to data scientist
 - 🏊 Fun fact: I love swimming
 
 <br>
@@ -35,7 +35,7 @@
 [<img align="left" alt="Power BI" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Power%20BI.png" />](://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Power%20BI.png "Power BI")
 [<img align="left" alt="PowerPoint" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/PowerPoint.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/PowerPoint.png "PowerPoint")
 [<img align="left" alt="Excel" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Excel.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Excel.png "Excel")
-[<img align="left" alt="Word" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png "Word")
+[<img align="left" alt="Word" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png "Word")  <br><br>
 [<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Linux.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Linux.png "Linux")
 [<img align="left" alt="Windows" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png "Windows")
 [<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png "VSCode")
@@ -51,12 +51,20 @@
 
 ### 📊 Profil Statistics:
 
-<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&show_icons=true&hide_border=true&theme=great-gatsby" />
+<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&hide=contribs&show_icons=true&hide_border=true&theme=great-gatsby" />
 
 
 <img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=maroongold" />
 
+<br>
+<br>
 
+---
+
+<br>
+
+### :zap: Recent GitHub Activity
+<!--START_SECTION:activity--> 
 
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
