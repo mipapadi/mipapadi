@@ -1,5 +1,7 @@
 <h2 align="center">
-<p><span style="color:#2de2e6">Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></span></p>
+<span style="color:#2de2e6">
+Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</span>
 
 ![Expertise](https://img.shields.io/badge/Field-Exp-yellowgreen)
 ![Licenced](https://img.shields.io/badge/Licence-UTH-critical)
@@ -12,11 +14,11 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/U%20T%20O%20P%20I%20A.gif" width="350" height="270" />
 
 
-<span style="color:#ECA089"> - 🔭 I’m currently working on something cool 😉</span>  
-<span style="color:#ECA089">- 📖 I’m currently learning Machine Learning & Deep Learning</span>  
-<span style="color:#ECA089">- 💬 Ask me anything about: Excel, SQL, NoSQL, ORM, Docker & Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)</span>  
-<span style="color:#ECA089">- 🎯 2022 Goals: Upgrade to data scientist</span>  
-<span style="color:#ECA089">- 🏊 Fun fact: I love swimming</span> 
+- 🔭 <span style="color:#ECA089">- I’m currently working on something cool 😉</span>  
+- 📖 <span style="color:#ECA089">- I’m currently learning Machine Learning & Deep Learning</span>  
+- 💬 <span style="color:#ECA089">- Ask me anything about: Excel, SQL, NoSQL, ORM, Docker & Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)</span>  
+- 🎯 <span style="color:#ECA089">- 2022 Goals: Upgrade to data scientist</span>  
+- 🏊 <span style="color:#ECA089">- Fun fact: I love swimming</span> 
 
 <h3 align="left">  
 <span style="color:#317bec">
