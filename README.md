@@ -71,14 +71,14 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
  <b>📊 Profile Statistics:</b>
 </span>
 </h3>
+  
+<br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mipapadi&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=synthwave&title_color=2de2e6" height="190px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide_border=true&theme=omni&title_color=F85D7F" height="190px"/></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br>
-
-<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&hide=contribs&show_icons=true&hide_border=true&theme=synthwave" />
-  
-
-<p align="right"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=omni" />
-
 <br>
 
 ---
@@ -89,12 +89,4 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 <p align="right"> <img alt="mipapadi" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 
-
-<body>
-  <p style="color:#FF0000";>Red paragraph text</p>
-</body>
-
-
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
-
-
