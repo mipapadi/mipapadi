@@ -14,8 +14,6 @@
 - 🎯 2022 Goals: Upgrade to data scientist
 - 🏊 Fun fact: I love swimming
 
-<br>
-
 ### 🔗 Connect with me:
 
 <img align="left" alt="mipapapdi.com" width="23px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -58,7 +56,11 @@
 
 <img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&hide=contribs&show_icons=true&hide_border=true&theme=synthwave" />  
 
-<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=omni" /> 
+
+  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=omni" /> 
+  
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/U%20T%20O%20P%20I%20A.gif" width="350" height="250" />
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)  
