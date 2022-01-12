@@ -91,14 +91,17 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 </span>
 </h3>
 
+
+   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/E%20S%20C%20A%20P%20E.gif" width="500" height="620" />
+
 <p align="left">
-  <a href="https://github.com/mipapadi/skytrax_data_analysis"><img alt="skytrax_data_analysis" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=skytrax_data_analysis&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="290"></a>
+  <a href="https://github.com/mipapadi/skytrax_data_analysis"><img alt="skytrax_data_analysis" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=skytrax_data_analysis&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
   
-  <a href="https://github.com/mipapadi/multiplication"><img alt="multiplication" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=multiplication&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="290"></a>
+  <a href="https://github.com/mipapadi/multiplication"><img alt="multiplication" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=multiplication&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
   
-  <a href="https://github.com/mipapadi/hangman"><img alt="hangman" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=hangman&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="290"></a>
+  <a href="https://github.com/mipapadi/hangman"><img alt="hangman" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=hangman&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
   
-  <a href="https://github.com/mipapadi/mipapadi"><img alt="mipapadi" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=mipapadi&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="290"></a>
+  <a href="https://github.com/mipapadi/mipapadi"><img alt="mipapadi" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=mipapadi&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
 </p>
 
 
