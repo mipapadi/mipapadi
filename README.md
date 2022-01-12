@@ -69,7 +69,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 <h3 align="left">  
 <span style="color:#317bec">
- <b>📊 Profil Statistics:</b>
+ <b>📊 Profile Statistics:</b>
 </span>
 </h3>
 
