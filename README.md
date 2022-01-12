@@ -88,6 +88,13 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 <p align="right"> <img alt="mipapadi" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
+
+
+<body>
+  <p style="color:#FF0000";>Red paragraph text</p>
+</body>
+
+
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
 
 
