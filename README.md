@@ -1,20 +1,31 @@
-### Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h2 align="center">
+<span style="color:#2de2e6">
+Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</span>
 
 ![Expertise](https://img.shields.io/badge/Field-Exp-yellowgreen)
 ![Licenced](https://img.shields.io/badge/Licence-UTH-critical)
+</h2>
 
-## I am a passionate Data Analyst, searching for job opportunities and exciting projects !!
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+passionate+Data+Analyst;Searching+for:;Job+opportunities+and+exciting+projects+!!;Always%20learning%20new%20things%20🤖&font=Neonderthaw%20Code&center=true&width=440&height=45&color=9700cc&vCenter=true&size=17"></a>
+</p>
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/U%20T%20O%20P%20I%20A.gif" width="350" height="270" />
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/U%20T%20O%20P%20I%20A.gif" width="350" height="250" />
+<span style="color:#ECA089"> - 🔭 I’m currently working on something cool 😉</span>  
+<span style="color:#ECA089">- 📖 I’m currently learning Machine Learning & Deep Learning</span>  
+<span style="color:#ECA089">- 💬 Ask me anything about: Excel, SQL, NoSQL, ORM, Docker & Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)</span>  
+<span style="color:#ECA089">- 🎯 2022 Goals: Upgrade to data scientist</span>  
+<span style="color:#ECA089">- 🏊 Fun fact: I love swimming</span> 
 
-- 🔭 I’m currently working on something cool 😉
-- 📖 I’m currently learning Machine Learning & Deep Learning
-- 💬 Ask me anything about: Excel, SQL, NoSQL, ORM, Docker & Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)
-- 🎯 2022 Goals: Upgrade to data scientist
-- 🏊 Fun fact: I love swimming
+<h3 align="left">  
+<span style="color:#317bec">
+ <b>🔗 Connect with me:</b>
+</span>
+</h3>
 
-### 🔗 Connect with me:
 
 <img align="left" alt="mipapapdi.com" width="23px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="mipapapdi | LinkedIn" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,7 +33,11 @@
 
 <br>
 
-### 🛠️ Languages and Tools:
+<h3 align="left">  
+<span style="color:#317bec">
+ <b>🛠️ Languages and Tools:</b>
+</span>
+</h3>
 
 [<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Python.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Python.png "Ptyhon")
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/SQL.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/SQL.png "SQL")
@@ -44,7 +59,7 @@
 [<img align="left" alt="Windows" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png "Windows")
 [<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png "VSCode")
 [<img align="left" alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Jupyter.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Jupyter.png "Jupyter")
-[<img align="left" alt="Colab" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png "Colab") 
+[<img align="left" alt="Colab" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png "Colab")
 
 <br>
 
@@ -52,21 +67,28 @@
 
 <br>
 
-### 📊 Profil Statistics:
+<h3 align="left">  
+<span style="color:#317bec">
+ <b>📊 Profil Statistics:</b>
+</span>
+</h3>
 
-<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&hide=contribs&show_icons=true&hide_border=true&theme=synthwave" />  
+<br>
 
-
-  <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=omni" /> 
+<img align="left" alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mipapadi&hide=contribs&show_icons=true&hide_border=true&theme=synthwave" />
   
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/U%20T%20O%20P%20I%20A.gif" width="350" height="250" />
+<p align="right"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=mipapadi&show_icons=true&hide_border=true&langs_count=7&theme=omni" />
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)  
-
+<br>
 
 ---
 
+<br>
+
+
+<p align="right"> <img alt="mipapadi" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
+
+
