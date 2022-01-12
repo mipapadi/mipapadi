@@ -49,7 +49,6 @@
 [<img align="left" alt="Colab" width="30px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png "Colab") 
 
 <br>
-<br>
 
 ---
 
