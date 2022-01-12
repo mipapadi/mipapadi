@@ -8,17 +8,17 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+passionate+Data+Analyst;Searching+for:;Job+opportunities+and+exciting+projects+!!;Always%20learning%20new%20things%20🤖&font=Neonderthaw%20Code&center=true&width=440&height=45&color=9700cc&vCenter=true&size=17"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Data+Analyst;Searching+for:;Job+opportunities+and+exciting+projects+!!;Always%20learning%20new%20things%20🤖&font=Neonderthaw%20Code&center=true&width=440&height=45&color=9700cc&vCenter=true&size=17"></a>
 </p>
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/U%20T%20O%20P%20I%20A.gif" width="350" height="270" />
 
 
-- 🔭 <span style="color:#ECA089">- I’m currently working on something cool 😉</span>  
-- 📖 <span style="color:#ECA089">- I’m currently learning Machine Learning & Deep Learning</span>  
-- 💬 <span style="color:#ECA089">- Ask me anything about: Excel, SQL, NoSQL, ORM, Docker & Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)</span>  
-- 🎯 <span style="color:#ECA089">- 2022 Goals: Upgrade to data scientist</span>  
-- 🏊 <span style="color:#ECA089">- Fun fact: I love swimming</span> 
+- 🔭 <span style="color:#ECA089">I’m currently working on something cool 😉</span>  
+- 📖 <span style="color:#ECA089">I’m currently learning Machine Learning & Deep Learning</span>  
+- 💬 <span style="color:#ECA089">Ask me anything about: Excel, SQL, NoSQL, ORM, Docker & Python(Pandas, Numpy, MatPlotLib, Seaborn, PlotLy, PySpark)</span>  
+- 🎯 <span style="color:#ECA089">2022 Goals: Upgrade to data scientist</span>  
+- 🏊 <span style="color:#ECA089">Fun fact: I love swimming</span> 
 
 <h3 align="left">  
 <span style="color:#317bec">
