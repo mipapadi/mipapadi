@@ -85,8 +85,35 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 <br>
 
+<h3 align="left">  
+<span style="color:#317bec">
+ <b>💜 Favourite Repos:</b>
+</span>
+</h3>
+
+<p align="left">
+  <a href="https://github.com/mipapadi/skytrax_data_analysis"><img alt="skytrax_data_analysis" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=skytrax_data_analysis&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="290"></a>
+  
+  <a href="https://github.com/mipapadi/multiplication"><img alt="multiplication" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=multiplication&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="290"></a>
+  
+  <a href="https://github.com/mipapadi/hangman"><img alt="hangman" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=hangman&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="290"></a>
+  
+  <a href="https://github.com/mipapadi/mipapadi"><img alt="mipapadi" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=mipapadi&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="290"></a>
+</p>
+
+
+<br>
+
+---
+
+<br>
+
 
 <p align="right"> <img alt="mipapadi" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
+<br>
+
+
+---
 
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
