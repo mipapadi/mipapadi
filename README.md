@@ -8,7 +8,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 </h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Data+Analyst;Searching+for:;Job+opportunities+and+exciting+projects+!!;Always%20learning%20new%20things%20🤖&font=Neonderthaw%20Code&center=true&width=440&height=45&color=2de2e6&vCenter=true&size=17"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Data+Analyst;Searching+for:;Job+opportunities+and+exciting+projects+!!;Always%20learning%20new%20things%20🤖&font=Neonderthaw%20Code&center=true&width=440&height=45&color=9700cc&vCenter=true&size=17"></a>
 </p>
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/U%20T%20O%20P%20I%20A.gif" width="350" height="270" />
@@ -55,7 +55,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 [<img align="left" alt="Power BI" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Power%20BI.png" />](://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Power%20BI.png "Power BI")
 [<img align="left" alt="PowerPoint" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/PowerPoint.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/PowerPoint.png "PowerPoint")
 [<img align="left" alt="Excel" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Excel.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Excel.png "Excel")
-[<img align="left" alt="Word" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png "Word")  <br><br>
+[<img align="left" alt="Word" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png "Word")  <br><br><br>
 [<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Linux.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Linux.png "Linux")
 [<img align="left" alt="Windows" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png "Windows")
 [<img align="left" alt="VSCode" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png "VSCode")
@@ -72,8 +72,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
  <b>📊 Profile Statistics:</b>
 </span>
 </h3>
-  
-<br/>
+
 <a href="https://github.com/mipapadi?tab=repositories"><img alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mipapadi&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=synthwave" height="170px"/></a>
 <a href="https://github.com/mipapadi?tab=repositories"><img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide_border=true&theme=omni" height="170px"/></a>
 <br/>
