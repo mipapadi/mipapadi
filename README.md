@@ -3,8 +3,8 @@
 Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </span>
 
-![Expertise](https://img.shields.io/badge/Field-Exp-yellowgreen)
-![Licenced](https://img.shields.io/badge/Licence-UTH-critical)
+![Expertise](https://img.shields.io/badge/Field-Exp-2de2e6)
+![University](https://img.shields.io/badge/From-UTH-critical)
 </h2>
 
 <p align="center">
@@ -62,6 +62,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 [<img align="left" alt="Jupyter" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Jupyter.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Jupyter.png "Jupyter")
 [<img align="left" alt="Colab" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Colab.png "Colab")
 
+<br>
 <br>
 
 ---
