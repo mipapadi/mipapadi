@@ -29,7 +29,8 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 <img align="left" alt="mipapapdi.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="mipapapdi | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="mipapapdi | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+
+[<img align="left" alt="mipapapdi | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mipapapdi | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br>
@@ -120,4 +121,6 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 ---
 
+
+[facebook]: https://www.facebook.com/mixalis.papadimitriou.1000/
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
