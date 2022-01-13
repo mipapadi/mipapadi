@@ -11,7 +11,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+Data+Analyst;Searching+for:;Job+opportunities+and+exciting+projects+!!;Always%20learning%20new%20things%20🤖&font=Neonderthaw%20Code&center=true&width=440&height=45&color=9700cc&vCenter=true&size=17"></a>
 </p>
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/U%20T%20O%20P%20I%20A.gif" width="350" height="270" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/C%20R%20E%20A%20T%20O%20R.gif" width="360" height="260" />
 
 
 - 🔭 <span style="color:#ECA089">I’m currently working on something cool 😉</span>  
@@ -28,8 +28,8 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 
 <img align="left" alt="mipapapdi.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="mipapapdi | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
+[<img align="left" alt="mipapapdi | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mipapapdi | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mipapapdi | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -56,7 +56,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 [<img align="left" alt="Power BI" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Power%20BI.png" />](://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Power%20BI.png "Power BI")
 [<img align="left" alt="PowerPoint" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/PowerPoint.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/PowerPoint.png "PowerPoint")
 [<img align="left" alt="Excel" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Excel.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Excel.png "Excel")
-[<img align="left" alt="Word" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png "Word")  <br><br><br>
+[<img align="left" alt="Word" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Word.png "Word")  <br><br>
 [<img align="left" alt="Linux" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Linux.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Linux.png "Linux")
 [<img align="left" alt="Windows" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/Windows.png "Windows")
 [<img align="left" alt="VSCode" width="32px" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png" />](https://raw.githubusercontent.com/mipapadi/mipapadi/master/Icons/VSCode.png "VSCode")
@@ -122,5 +122,6 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 ---
 
 
+[linkedin]: https://www.linkedin.com/in/michail-emmanouil-papadimitriou-9604a2186/
 [facebook]: https://www.facebook.com/mixalis.papadimitriou.1000/
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
