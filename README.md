@@ -121,8 +121,8 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 
 ---
+        
 
-
-[linkedin]: https://www.linkedin.com/in/michail-emmanouil-papadimitriou-9604a2186/
+[linkedin]: https://www.linkedin.com/in/mipapadi
 [facebook]: https://www.facebook.com/mixalis.papadimitriou.1000/
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
