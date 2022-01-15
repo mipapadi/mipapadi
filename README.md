@@ -1,7 +1,6 @@
 <h2 align="center">
-<span style="color:#2de2e6">
+
 Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</span>
 
 ![Expertise](https://img.shields.io/badge/Field-Exp-2de2e6)
 ![University](https://img.shields.io/badge/From-UTH-critical)
@@ -26,10 +25,8 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 </span>
 </h3>
 
-<!-- 
-<img align="left" alt="mipapapdi.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
--->
 
+[<img align="left" alt="mipapapdi.com" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="mipapapdi | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mipapapdi | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="mipapapdi | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -77,7 +74,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 </h3>
 
 <a href="https://github.com/mipapadi?tab=repositories"><img alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mipapadi&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=synthwave" height="170px"/></a>
-<a href="https://github.com/mipapadi?tab=repositories"><img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide_border=true&theme=omni" height="170px"/></a>
+<a href="https://github.com/mipapadi?tab=repositories"><img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide_border=true&layout=compact&theme=omni" height="170px"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -112,17 +109,30 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 
 ---
 
-<br>
+<br> 
 
 
-<p align="right"> <img alt="mipapadi" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<p align="center"> <img alt="mipapadi" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<br>
+<br> 
 
+<p align="center">
+  <a href="https://mipapadi.github.io/">
+    <img alt="" title="mipapadi portfolio" height="25px" src="https://custom-icon-badges.herokuapp.com/badge/-website-ec1c4b?style=for-the-badge&logo=globe&logoColor=black"/></a>
+  <a href="https://github.com/mipapadi">
+    <img alt="" title="mipapadi github" height="25px" src="https://custom-icon-badges.herokuapp.com/badge/-github-f7d969?style=for-the-badge&logo=github&logoColor=black">
+  <a href="https://www.linkedin.com/in/mipapadi">
+    <img alt="" title="mipapadi linkedin" height="25px" src="https://custom-icon-badges.herokuapp.com/badge/-linkedin-2f9395?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://www.facebook.com/mixalis.papadimitriou.1000/">
+    <img alt="" title="mipapadi facebook" height="25px" src="https://custom-icon-badges.herokuapp.com/badge/-facebook-035ee8?style=for-the-badge&logo=facebook&logoColor=black"/></a>
+  <a href="https://www.instagram.com/mipapadi/?hl=en">
+    <img alt="" title="mipapadi instagram" height="25px" src="https://custom-icon-badges.herokuapp.com/badge/-instagram-9700cc?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+</p>
 
 ---
         
-
+[website]: https://mipapadi.github.io/index.html
 [linkedin]: https://www.linkedin.com/in/mipapadi
 [facebook]: https://www.facebook.com/mixalis.papadimitriou.1000/
 [instagram]: https://www.instagram.com/mipapadi/?hl=en
+
