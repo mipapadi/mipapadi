@@ -73,7 +73,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 </span>
 </h3>
 
-<a href="https://github.com/mipapadi?tab=repositories"><img alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mipapadi&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=synthwave" height="170px" width="500px" /></a>
+<a href="https://github.com/mipapadi?tab=repositories"><img alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mipapadi&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=synthwave" height="170px" width="450px" /></a>
 <a href="https://github.com/mipapadi?tab=repositories"><img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide_border=true&layout=compact&theme=omni" height="170px"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
