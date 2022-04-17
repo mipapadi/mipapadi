@@ -74,7 +74,7 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
 </h3>
 
 <a href="https://github.com/mipapadi?tab=repositories"><img alt="mipapadi's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=mipapadi&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=synthwave" height="160px" width="455px" /></a>
-<a href="https://github.com/mipapadi?tab=repositories"><img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide_border=true&layout=compact&theme=omni" height="152px" width="340px"/></a>
+<a href="https://github.com/mipapadi?tab=repositories"><img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mipapadi&langs_count=8&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=omni" height="152px" width="340px"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -95,13 +95,13 @@ Hi there, I'm Michail Papadimitriou - aka [mipapadi][website] <img src="https://
    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mipapadi/mipapadi/master/E%20S%20C%20A%20P%20E.gif" width="510" height="640" />
 
 <p align="left">
-  <a href="https://github.com/mipapadi/skytrax_data_analysis"><img alt="skytrax_data_analysis" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=skytrax_data_analysis&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
+  <a href="https://github.com/mipapadi/hotels"><img alt="hotels project" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=hotels&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
   
-  <a href="https://github.com/mipapadi/multiplication"><img alt="multiplication" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=multiplication&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
+  <a href="https://github.com/mipapadi/lego"><img alt="lego project" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=lego&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
   
-  <a href="https://github.com/mipapadi/hangman"><img alt="hangman" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=hangman&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
+  <a href="https://github.com/mipapadi/cars"><img alt="cars project" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=cars&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
   
-  <a href="https://github.com/mipapadi/mipapadi"><img alt="mipapadi" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=mipapadi&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
+  <a href="https://github.com/mipapadi/web-scraping"><img alt="amazon web-scraping project" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mipapadi&repo=web-scraping&theme=react&bg_color=1F222E&title_color=ECA089&icon_color=F85D7F&hide_border=true&show_icons=false"  width="300"></a>
 </p>
 
 
